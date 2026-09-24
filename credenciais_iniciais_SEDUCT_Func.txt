@@ -1,0 +1,136 @@
+SEDUCT-Func — CREDENCIAIS INICIAIS POR SETOR
+Gerado em 23/09/2026
+
+IMPORTANTE:
+- Entregue a cada setor somente a sua própria credencial.
+- O arquivo HTML armazena apenas hashes SHA-256 das senhas; as senhas em texto estão apenas neste arquivo.
+- Esta versão usa localStorage do navegador. Os dados não são compartilhados automaticamente entre computadores.
+- Para uso multiusuário real com segurança centralizada, será necessário backend/autenticação (por exemplo, Firebase).
+
+Setor: Gabinete
+Login: gabinete
+Senha inicial: nJEv4aZ5ZVnH
+
+Setor: Assessoria Jurídica
+Login: assessoria_juridica
+Senha inicial: #mU!b9vkSc2A
+
+Setor: Comunicação
+Login: comunicacao
+Senha inicial: ADJ2pEt6oMV8
+
+Setor: Administração
+Login: administracao
+Senha inicial: Jkp5Z8c6PX2Z
+
+Setor: Recursos Humanos / Gestão de Pessoas
+Login: gestao_pessoas
+Senha inicial: Eq!83wbRhGD7
+
+Setor: Financeiro / Orçamento
+Login: financeiro_orcamento
+Senha inicial: Vnm4tsnXJmHK
+
+Setor: Compras e Contratos
+Login: compras_contratos
+Senha inicial: kX#tk!VjT#m8
+
+Setor: Almoxarifado e Patrimônio
+Login: almoxarifado_patrimonio
+Senha inicial: DVNF3!Ljfz6v
+
+Setor: Protocolo
+Login: protocolo
+Senha inicial: Sb6fBEnQbtHt
+
+Setor: Tecnologia da Informação
+Login: tecnologia_informacao
+Senha inicial: NBc4gHfdU8YW
+
+Setor: Infraestrutura / Manutenção
+Login: infraestrutura_manutencao
+Senha inicial: 83M2xe4EUGAQ
+
+Setor: Transporte Escolar
+Login: transporte_escolar
+Senha inicial: 4Zn85AAg#mSr
+
+Setor: Nutrição Escolar
+Login: nutricao_escolar
+Senha inicial: FWAAJcTdVQZ7
+
+Setor: Supervisão Escolar
+Login: supervisao_escolar
+Senha inicial: @T3rPvr!k4NF
+
+Setor: Educação Infantil
+Login: educacao_infantil
+Senha inicial: XCp4ybDXn#bH
+
+Setor: Ensino Fundamental – Anos Iniciais
+Login: anos_iniciais
+Senha inicial: MDeSYedN7mYf
+
+Setor: Ensino Fundamental – Anos Finais
+Login: anos_finais
+Senha inicial: pJo!ocLxWT95
+
+Setor: Educação de Jovens e Adultos – EJA
+Login: eja
+Senha inicial: JZXiaf3o!2Xj
+
+Setor: Educação Especial / Inclusiva
+Login: educacao_inclusiva
+Senha inicial: syAuyJFVUpV!
+
+Setor: Educação do Campo
+Login: educacao_campo
+Senha inicial: 7t@n5chVpnkL
+
+Setor: Educação Física
+Login: educacao_fisica
+Senha inicial: Yaf6rFmtnZ!u
+
+Setor: Ensino Religioso
+Login: ensino_religioso
+Senha inicial: SYm7HCDEZtd8
+
+Setor: Projetos Educacionais
+Login: projetos_educacionais
+Senha inicial: 9j5TGhfzFy3Z
+
+Setor: Serviço Social / Equipe Multiprofissional
+Login: equipe_multiprofissional
+Senha inicial: U5L7Wk5hPLGm
+
+Setor: Matrícula / Censo Escolar
+Login: matricula_censo
+Senha inicial: jokg5FZAogkc
+
+Setor: Formação de Professores – EFEM
+Login: efem
+Senha inicial: Ju5PS@2BETG3
+
+Setor: Ciência e Tecnologia
+Login: ciencia_tecnologia
+Senha inicial: RY3KLLL4ZuUL
+
+Setor: Tecnologias Digitais
+Login: tecnologias_digitais
+Senha inicial: 9yZuH!mtP#jb
+
+Setor: Ouvidoria
+Login: ouvidoria
+Senha inicial: mJPo8aT!Brav
+
+Setor: Zeladoria
+Login: zeladoria
+Senha inicial: 7ws6YNgRGKpe
+
+Setor: Conselho Municipal de Educação
+Login: conselho_educacao
+Senha inicial: qWt!kLaAtLLt
+
+Setor: Outros
+Login: outros
+Senha inicial: u!4YWa8b7xU4
